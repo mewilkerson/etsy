@@ -1,0 +1,211 @@
+body {
+  margin: 0;
+  font-family: "Arial","Helvetica",sans-serif;
+}
+
+header {
+  height: 100px; /* TEMP */
+  background: #fff;
+  -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.49);
+-moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 0.49);
+box-shadow:         0px 3px 5px rgba(100, 100, 100, 0.49);
+}
+
+.main {
+  /*height: 600px; /* TEMP */
+  background: #f5f5f1; 
+}
+
+.search-bar {
+ margin-top: 30px;
+ /*width: 25px;*/
+}
+
+
+footer {
+  height: 200px; /* TEMP */
+  background: #fff; /* TEMP */
+  clear: both;
+  padding-bottom: 14px;
+  display: inline-block;
+  margin: auto;
+}
+
+.inner-footer {
+  padding-bottom: 14px;
+  margin: auto;
+  width: 300px;  /* TEMP */
+  height: 75px;  /* TEMP */
+  margin: 15px;  /* TEMP */
+  background: #fff;  /* TEMP */
+  float: right;
+  padding-top: 10px;
+}
+
+.inner-footer a {
+  list-style: none;
+  text-decoration: none;  
+}
+
+.inner-footer li {
+  list-style: none; 
+}
+
+.content {
+  width: 980px;
+  margin: auto;
+}
+
+.main .content {
+  overflow: hidden;
+}
+
+.left-header-area {
+  width: 400px;  /* TEMP */
+  height: 75px;  /* TEMP */
+  margin: 20px;  /*TEMP*/
+  background: #fff;  /* TEMP */
+  float: left;
+}
+
+.etsy-logo {
+  float: left;
+  width: 75px;
+  height: 80px;
+  margin-right: 20px;
+  text-align: left;
+}
+
+.etsy-logo a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: url(https://www.etsy.com/assets/dist/images/etsylogo.20150211155055.png) transparent no-repeat center center;
+  text-decoration: none;
+}
+
+.right-header-area {
+  width: 300px;  /* TEMP */
+  height: 75px;  /* TEMP */
+  margin: 15px;  /* TEMP */
+  background: #fff;  /* TEMP */
+  float: right;
+  padding-top: 10px;
+}
+
+.right-header-area li {
+  list-style: none;
+  float: left;
+  margin: 5px;
+
+}
+
+.right-header-area a {
+  text-decoration: none;
+  color: #0192B5;
+}
+
+.sign-in a {
+  padding-left: 5px;
+}
+
+.actual-sign-in {
+  padding: 8px;
+  margin-top: 28px;
+  margin-right: 10px;
+}
+
+.clear-float {
+  clear: both;
+}
+
+.sidebar {
+  min-height: 450px; /* TEMP */
+  background: #fff; /* TEMP */
+  width: 224px;
+  float: left;
+  border: 1px solid #ececec;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #0192B5;
+}
+
+.sidebar-top {
+  padding: 5px;
+  margin-left: 15px;
+  border-bottom: 1px solid #ececec;
+  margin-right: 15px;
+  height: 155px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 3px;
+}
+
+.sidebar li {
+  margin-left: 10px;
+  margin-top: 8px;
+  color: #0192B5;
+}
+
+.top-element {
+  width: 100%;
+  height: 50px;
+}
+
+.sidebar-middle {
+  padding: 5px;
+  margin-left: 15px;
+  border-bottom: 1px solid #ececec;
+  margin-right: 15px;
+  height: 255px;
+}
+
+.product-area {
+  height: 100%; /* TEMP */
+  background: #f5f5f1; /* TEMP */
+  width: 728px;
+  float: right;
+}
+
+.product {
+  /*height: 220px;*/
+  width: 224px;
+  background: #fff;
+  float: left;
+  font-size: 12px;
+  margin-right: 15px;
+  margin-bottom: 18px;
+  border: 1px solid #ececec;
+}
+
+.product a {
+  text-decoration: none; 
+  color: #666;
+}
+
+.product img {
+  width: 214px;
+  height: 170px;
+  margin: 5px;
+}
+
+.title-wrapper {
+  margin-left: 10px;
+}
+
+.store {
+  float: left;
+  padding-left: 10px;
+  width: 48%;
+}
+
+.price {
+  float: right;
+  padding-right: 10px;
+}
+
+
