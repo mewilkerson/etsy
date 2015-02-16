@@ -32,7 +32,7 @@ $(function(){
  });
 
 
-// EVENT LISTENER
+// EVENT LISTENER HERE
 $(".search-form").on("submit", function(event) {
    event.preventDefault();
    

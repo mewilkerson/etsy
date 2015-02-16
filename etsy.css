@@ -28,7 +28,7 @@ footer {
   clear: both;
   padding-bottom: 14px;
   display: inline-block;
-  margin: auto;
+  margin: auto; 
 }
 
 .inner-footer {
@@ -85,10 +85,10 @@ footer {
 }
 
 .right-header-area {
-  width: 300px;  /* TEMP */
-  height: 75px;  /* TEMP */
-  margin: 15px;  /* TEMP */
-  background: #fff;  /* TEMP */
+  width: 300px;  
+  height: 75px; 
+  margin: 15px; 
+  background: #fff; 
   float: right;
   padding-top: 10px;
 }
@@ -120,8 +120,8 @@ footer {
 }
 
 .sidebar {
-  min-height: 450px; /* TEMP */
-  background: #fff; /* TEMP */
+  min-height: 450px;
+  background: #fff; 
   width: 224px;
   float: left;
   border: 1px solid #ececec;
@@ -165,8 +165,8 @@ footer {
 }
 
 .product-area {
-  height: 100%; /* TEMP */
-  background: #f5f5f1; /* TEMP */
+  height: 100%;
+  background: #f5f5f1;
   width: 728px;
   float: right;
 }
